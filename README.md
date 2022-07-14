@@ -1,2 +1,2 @@
-# 👋
-Hello, I'm Matthew Raaff and I'm interested in Software development, Graphic design and lots of other computer-related things!
+# 👋 Hello
+I'm Matthew Raaff and I'm interested in Software development, Graphic design and lots of other computer-related things!
