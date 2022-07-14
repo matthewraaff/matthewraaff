@@ -1,4 +1,2 @@
-- 👋 Hi, I’m [@Matthew Raaff](https://github.com/matthewraaff).
-- 📞 0118 999 881 999 119 7253
-
-What else do you want to know about me?
+# 👋
+Hello, I'm Matthew Raaff and I'm interested in Software development, Graphic design and lots of other computer-related things!
