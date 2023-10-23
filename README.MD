@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/matthewraaff/matthewraaff/master/about_me.png" alt="About me" width="150"/>
 
-I have been passionate about programming since 2017, writing code almost every day since I started. I started writing statically typed and opject oriented programs in early 2020 that has helped me create future-proof and quality code. I'm mainly interested in the following categories:
+I have been passionate about programming since 2017, writing code almost every day since I started. I really enjoy learning about computing. I started writing statically typed and opject oriented programs in early 2020 that has helped me create future-proof and quality code. I'm mainly interested in the following categories:
  - Networking software development
  - Cybersecurity
  - Game development
