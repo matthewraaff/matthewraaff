@@ -1,6 +1,6 @@
 **Socials**: [My website](https://raaff.dev)
 
-## [Canyon](https://github.com/matthewraaff/canyon)
+## [![Written with](https://skillicons.dev/icons?i=rs)](https://skillicons.dev) [Canyon](https://github.com/matthewraaff/canyon)
 A small implementation of the minimax algorithm in Rust.
 
 ## [Grep-RS](https://github.com/matthewraaff/grep-rs)
