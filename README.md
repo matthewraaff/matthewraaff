@@ -1,4 +1,4 @@
-## Top 3 public projects
+## Top 3 active public projects
 
 ### <img src="https://skillicons.dev/icons?i=rust" width="20" height="20"> [Canyon](https://github.com/matthewraaff/canyon)
 A small implementation of the minimax algorithm in Rust.
