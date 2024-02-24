@@ -1,3 +1,5 @@
+👋 Hello, I'm Matthew Raaff, a software developer from England.
+
 ## Top 3 active public projects
 
 ### <img src="https://skillicons.dev/icons?i=rust" width="20" height="20"> [Canyon](https://github.com/matthewraaff/canyon)
